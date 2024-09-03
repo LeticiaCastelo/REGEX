@@ -8,6 +8,7 @@ Os scripts deste repositório foram criados para buscar padrões específicos de
 ## Conteúdo
 
 - `busca_cpf.js`: Script para busca e validação de números de CPF.
+- `busca_nome.js`: Script para busca e validação de nomes.
 - `busca_data.js`: Script para busca e extração de datas em textos.
 - `busca_telefone.js`: Script para busca e validação de números de telefone.
 - `busca.js`: Script para busca de padrões personalizados em um texto.
